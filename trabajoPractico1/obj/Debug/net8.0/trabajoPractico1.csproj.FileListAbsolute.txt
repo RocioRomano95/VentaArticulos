@@ -1,0 +1,15 @@
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\bin\Debug\net8.0\trabajoPractico1.exe
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\bin\Debug\net8.0\trabajoPractico1.deps.json
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\bin\Debug\net8.0\trabajoPractico1.runtimeconfig.json
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\bin\Debug\net8.0\trabajoPractico1.dll
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\bin\Debug\net8.0\trabajoPractico1.pdb
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\obj\Debug\net8.0\trabajoPractico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\obj\Debug\net8.0\trabajoPractico1.AssemblyInfoInputs.cache
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\obj\Debug\net8.0\trabajoPractico1.AssemblyInfo.cs
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\obj\Debug\net8.0\trabajoPractico1.csproj.CoreCompileInputs.cache
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\obj\Debug\net8.0\trabajoPractico1.sourcelink.json
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\obj\Debug\net8.0\trabajoPractico1.dll
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\obj\Debug\net8.0\refint\trabajoPractico1.dll
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\obj\Debug\net8.0\trabajoPractico1.pdb
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\obj\Debug\net8.0\trabajoPractico1.genruntimeconfig.cache
+C:\Users\INTEL I7\source\repos\VentaArticulos\trabajoPractico1\obj\Debug\net8.0\ref\trabajoPractico1.dll
